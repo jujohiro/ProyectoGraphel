@@ -31,6 +31,15 @@ header {
 color: rgb(68, 187, 255);
 
 }
+.aNav2{
+    color: rgb(68, 187, 255);
+}
+.aNav3{
+    color: rgb(68, 187, 255);
+}
+.aNav4{
+    color: rgb(68, 187, 255);
+}
 
 ul{
     display: flex;
@@ -41,7 +50,7 @@ ul li{
     display: flex;
     list-style: none;
     gap: 20px;
-   }
+}
 a {
     display: flex;
     margin: 10px;
@@ -82,7 +91,7 @@ a {
     color: white;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-   
+
 
 }
 .boton{
@@ -104,6 +113,10 @@ a {
     align-items: center;
     width: 100%;
     height: 100px;
+}
+.queHacemosP{
+    display: flex;
+
 }
 .correo{
     background-color: #fff9f9;
@@ -149,3 +162,469 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     }
 
+    body{
+        margin: 0px;
+    }
+    
+    header {
+        height: 150px;
+        background-color: black;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        font-size: 25px;
+            border-bottom-color: #1293D4;
+            border-bottom-width: 7px;
+            border-style: solid;
+            height: 120px;
+    
+    }
+    .h1Inicio{
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        color: aliceblue;
+        gap: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .span1{
+        color:rgb(74, 161, 243);
+    }
+    .A1nav{
+        color: rgb(68, 187, 255);
+    }
+    
+    ul{
+        display: flex;
+        width: 100%;
+        gap: 20px;
+        
+    }
+    ul li{
+        display: flex;
+        list-style: none;
+        
+    }
+    a {
+        display: flex;
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
+    }
+    /* ---------------- */
+    
+    .datos {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        height: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .correo {
+        width: 200px;
+        height: 27px;
+        font-size: 15px;
+    }
+    
+    .boton {
+        width: 200px;
+        height: 35px;
+        background-color:#f74914;
+        font-size: 20px;
+        color: #fff;
+    }
+    /* ------------ */
+    
+    .textos_nosotros{
+        width: 900px;
+        height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    .div2Nosotros{
+        background-color: #343e4a;
+        height: 150px;
+        width: 680px;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    
+    .pDiv2Nosotros{
+        padding: 0px 10px 0px 10px;
+    }
+    .div3Nosotros{
+    
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .imgNosotros{
+        width: 680px;
+    
+    }
+    
+    .sectionCajaMayor{
+        display: flex;
+    }
+    
+    .div1Aside{
+        width: 330px;
+        height: 190px;
+        background-color: #343e4a;
+        color: #fff;
+        font-family:Arial, Helvetica, sans-serif ;
+        justify-content: center;
+        margin: 10px;
+    }
+    .div2Aside{
+        width: 100%;
+        height: 100%;
+        padding: 0px 10px 0px 10px;
+    }
+    
+    .footer {
+        height: 80px;
+        background-color: #1293D4;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    header {
+        height: 150px;
+        background-color: black;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        font-size: 25px;
+            border-bottom-color: #1293D4;
+            border-bottom-width: 7px;
+            border-style: solid;
+            height: 120px;
+    
+    }
+    .h1Inicio{
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        color: aliceblue;
+        gap: 10px;
+    }
+    .span1{
+        color:rgb(74, 161, 243);
+    }
+    .A1nav{
+        color: rgb(68, 187, 255);
+    }
+    
+    ul{
+        display: flex;
+        width: 100%;
+        gap: 20px;
+        
+    }
+    ul li{
+        display: flex;
+        list-style: none;
+        
+    }
+    a {
+        display: flex;
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    /* ---------------- */
+    
+    .datos {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        height: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .correo {
+        width: 200px;
+        height: 27px;
+        font-size: 15px;
+    }
+    
+    .boton {
+        width: 200px;
+        height: 35px;
+        background-color:#f74914;
+        font-size:15px;
+        color: #fff;
+    }
+    
+    /* ------------- */
+    
+    
+    .container {
+        display: flex;
+        justify-content: space-evenly;
+        min-height: 90vh; 
+        width: 1350px;
+    }
+    
+    .main-content {
+        padding: 20px;
+        
+    }
+    .h2Content{
+        font-size: 20px;
+    }
+    
+    .div1Servicios{
+        width: 700px;
+        height: 150px;
+        color: black;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #e6e6e6;
+        border: 2px solid #ccc;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .h2DivServicio{
+        font-size: 20px;
+    }
+    
+    .div2Servicios{
+        margin-top: 5px;
+        width: 700px;
+        height: 150px;
+        color: black;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #e6e6e6;
+        border: 2px solid #ccc;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .side-aside {
+        width: 300px; 
+        height: 180px;
+        padding: 20px;
+        margin-top: 20px;
+        background-color: #38424d;
+        border-left: 1px solid #ccc;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .h2Aside{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .footer {
+        height: 80px;
+        background-color: #1293D4;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    header {
+        height: 150px;
+        background-color: black;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        font-size: 25px;
+            border-bottom-color: #1293D4;
+            border-bottom-width: 7px;
+            border-style: solid;
+            height: 120px;
+    
+    }
+    .h1Inicio{
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        color: aliceblue;
+        gap: 10px;
+    }
+    .span1{
+        color:rgb(74, 161, 243);
+    }
+    .A1nav{
+        color: rgb(68, 187, 255);
+    }
+    
+    ul{
+        display: flex;
+        width: 100%;
+        gap: 20px;
+        
+    }
+    ul li{
+        display: flex;
+        list-style: none;
+        
+    }
+    a {
+        display: flex;
+        text-decoration: none;
+        color: white;
+        font-size: 15px;
+    }
+    /* ---------------- */
+    
+    .datos {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        height: 100px;
+    }
+    
+    
+    .correo {
+        width: 200px;
+        height: 27px;
+        font-size: 15px;
+    }
+    
+    .boton {
+        width: 200px;
+        height: 35px;
+        background-color:#f74914;
+        font-size:15px;
+        color: #fff;
+    }
+    
+    /* ------------- */
+    
+    .nombre{
+        font-size: 15px;
+        height: 20px;
+        width: 600px;
+        margin-top: 2px;
+    
+    }
+    .Email{
+        font-size: 15px;
+        height: 20px;
+        width: 600px;
+        margin-top: 2px;
+    }
+    .Telefono{
+        font-size: 15px;
+        height: 20px;
+        width: 600px;
+    }
+    .Celular{
+        font-size: 15px;
+        height: 20px;
+        width: 600px;
+    }
+    .Mensaje{
+        font-size: 15px;
+        height: 150px;
+        width: 600px;
+    }
+    .botonEnviar{
+        background-color: #f05034;
+        width: 600px;
+        height: 30px;
+        font-size: 15px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 5px;
+        border:none
+    
+    }
+    .h3Formulario{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 10px;
+        margin-left: 1px;
+        margin-bottom: 2px;
+        color: #504f4f;
+    
+    }
+    
+    
+    .h2Aside{
+        font-size: 20px;
+    }
+    
+    
+    .contacto{
+        width: 800px;
+        height: 600px;
+        float: left;
+        margin-top: 10px;
+        margin-left: 100px;
+        margin-bottom: 10px;
+        align-items: flex-end;
+    
+    }
+    
+    .container {
+        display: flex;
+        justify-content: space-evenly;
+        min-height: 75vh; 
+        width: 1350px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .side-aside {
+        width: 300px; 
+        height: 180px;
+        padding: 20px;
+        margin-top: 20px;
+        background-color: #38424d;
+        border-left: 1px solid #ccc;
+        color: #fff;
+        font-family: Arial, Helvetica, sans-serif;
+    
+    }
+    .divAsides{
+        
+    }
+    
+    .imgAside{
+    height: 260px;
+    width: 340PX;
+    margin-top: 10PX;
+    }
+    
+    .footer {
+        height: 80px;
+        background-color: #1293D4;
+        color: white;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
